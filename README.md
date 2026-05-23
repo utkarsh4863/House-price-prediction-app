@@ -159,7 +159,7 @@ http://127.0.0.1:5000
 
 **Utkarsh Kashyap**
 
-LinkedIn: Add your LinkedIn profile here  
+  
 GitHub: https://github.com/utkarsh4863
 
 ---
