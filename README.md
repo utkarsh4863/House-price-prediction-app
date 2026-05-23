@@ -139,13 +139,9 @@ http://127.0.0.1:5000
 
 ## 📸 Screenshots
 
-Add screenshots of your application here.
+![House Price Prediction App](https://raw.githubusercontent.com/utkarsh4863/House-price-prediction-app/main/Screenshot%202026-05-23%20100941.png)
 
-Example:
-
-- Home Page
-- Prediction Result
-- User Input Form
+- 
 
 ---
 
